@@ -1,0 +1,2 @@
+This is a simple textual format used for testing purposes.
+This is used as a way to show how to merge tag and revert commits
